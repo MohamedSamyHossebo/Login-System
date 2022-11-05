@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #24353F;
+    font-family: sans-serif;
+}
+
+.group {
+    box-shadow: black;
+}
+
+.group h1 {
+    color: #189DB3
+}
+
+.group input {
+    color: white;
+    background-color: #24353F;
+}
+
+.group a {
+    background-color: #24353F;
+    color: #189DB3;
+    text-decoration: none;
+}
+
+.group #ch:hover {
+
+    background-color: #189DB3;
+    color: white;
+    text-decoration: none;
+}
+
+#signupU {
+    color: #189DB3;
+}
+
+#signup:hover {
+    color: #189DB3 !important;
+    text-decoration: underline;
+}
+
+#signupU:hover {
+    background-color: #189DB3;
+    color: white;
+    text-decoration: none;
+}
+
+#signinU:hover {
+    color: #189DB3 !important;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+.navbar a {
+    color: white;
+}
